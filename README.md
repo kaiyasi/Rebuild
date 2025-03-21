@@ -144,4 +144,3 @@ DB_DATABASE=campus_anonymous
 - 強化管理員審核流程
 - 社群平台整合
 
-:rocket: **確認後，即可開始開發！**
